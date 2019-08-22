@@ -1,6 +1,5 @@
 package ReflectTest;
 
-import annotation.ItcastAnnotation;
 import annotation.MetaAnnotation;
 
 import java.util.Date;
